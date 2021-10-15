@@ -1,0 +1,15 @@
+{
+  "jwt": {
+    "SECRET_KEY": "!^%S3erviC3#C4"
+  },
+  "debug": false,
+  "databases": {
+    "mysql": {
+      "user": "root",
+      "password": "",
+      "host": "127.0.0.1",
+      "dbname": "ruang_belajar",
+      "port": "3306"
+    }
+  }
+}
